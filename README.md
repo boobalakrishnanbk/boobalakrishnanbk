@@ -18,7 +18,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img align="center" src="https://github.com/boobalakrishnanbk/boobalakrishnanbk/blob/main/Skills%20and%20tool.png" alt="boobalakrishnanbk" />
+<img align="center" src="https://github.com/boobalakrishnanbk/boobalakrishnanbk/blob/main/Skills%20and%20tool1.png" alt="boobalakrishnanbk" />
 
 
 <p id="scroll2">
