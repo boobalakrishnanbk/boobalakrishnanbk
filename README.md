@@ -18,7 +18,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-![logo](https://github.com/boobalakrishnanbk/boobalakrishnanbk/blob/main/Skills%20and%20tool.png)
+<img align="center" src="https://github.com/boobalakrishnanbk/boobalakrishnanbk/blob/main/Skills%20and%20tool.png" alt="boobalakrishnanbk" />
+
 
 <p id="scroll2">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=boobalakrishnanbk&show_icons=true&locale=en&layout=compact" alt="boobalakrishnanbk" />
