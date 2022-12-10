@@ -17,16 +17,29 @@
 </p>
 
 <h2 align="center">I know...</h2>
+
 <picture>
   <img alt="Languages and Skills" src="https://github.com/boobalakrishnanbk/boobalakrishnanbk/blob/main/Skills%20and%20tool.png">
 </picture>
 
-<h2 align="left">I am certified. Don't believe me!? Let me show you.</h2>
+<h2 align="center">I am certified in.</h2>
+<p align="center">
 <picture>
-  <img alt="Languages and Skills" src="https://github.com/boobalakrishnanbk/boobalakrishnanbk/blob/main/azure%20certificate.png" height=150 >
-  <img alt="Languages and Skills" src="https://github.com/boobalakrishnanbk/boobalakrishnanbk/blob/main/Python%20Certificate%20Linkedin.jpg" height=150 >
-  <img alt="Languages and Skills" src="https://github.com/boobalakrishnanbk/boobalakrishnanbk/blob/main/Python%20Certificate.jpg" height=150 >
+  <img alt="Languages and Skills" src="https://github.com/boobalakrishnanbk/boobalakrishnanbk/blob/main/Azure%20Fundamentals.png" height=150 >
 </picture>
+<picture>
+  <img alt="Languages and Skills" src="https://github.com/boobalakrishnanbk/boobalakrishnanbk/blob/main/Azure%20Developer.png" height=150 >
+</picture>
+<picture>
+  <img alt="Languages and Skills" src="https://github.com/boobalakrishnanbk/boobalakrishnanbk/blob/main/Agile%20E1.png" height=150 >
+</picture>
+<picture>
+  <img alt="Languages and Skills" src="https://github.com/boobalakrishnanbk/boobalakrishnanbk/blob/main/Python%20Developer.png" height=150 >
+</picture>
+<picture>
+  <img alt="Languages and Skills" src="https://github.com/boobalakrishnanbk/boobalakrishnanbk/blob/main/Python%20Developer%20TCS.png" height=150 >
+</picture>
+</p>
+<br/><br/>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boobalakrishnanbk&" alt="boobalakrishnanbk" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boobalakrishnanbk&" alt="boobalakrishnanbk" /></p> -->
