@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Boobala Krishnan</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate backend developer from Erode, Tamil Nadu, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boobalakrishnanbk&label=Profile%20views&color=0e75b6&style=flat" alt="boobalakrishnanbk" /> </p>
 
@@ -10,15 +10,29 @@
 
 - 📫 How to reach me **boobalakrishnan.bk2@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Have a connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/boobalakrishnanm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boobalakrishnanm" height="30" width="40" /></a>
-<a href="https://instagram.com/boobala.krishnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="boobala.krishnan" height="30" width="40" /></a>
+  
+  <picture width="50">
+    <a href="https://wa.link/7guo0b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="boobalakrishnanm" height="30" width="40" /></a>
+  </picture>
+  <picture width="50">
+    <a href="https://www.instagram.com/boobala.krishnan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="boobalakrishnanm" height="30" width="40" /></a>
+  </picture>
+  <picture width="50">
+    <a href="https://github.com/boobalakrishnanbk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="boobalakrishnanm" height="30" width="40" /></a>
+  </picture>
+  <picture width="50">
+    <a href="https://linkedin.com/in/boobalakrishnanm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="boobalakrishnanm" height="30" width="40" /></a>
+  </picture>
+
 </p>
+
 
 <h2 align="center">I know...</h2>
 
 <picture>
+  ![sample](/Skills%20and%20tool.png)
   <img alt="Languages and Skills" src="https://github.com/boobalakrishnanbk/boobalakrishnanbk/blob/main/Skills%20and%20tool.png">
 </picture>
 
