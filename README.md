@@ -11,7 +11,7 @@
     <a href="mailto:boobalakrishnan.bk2@gmail.com"><img src="https://img.shields.io/badge/-boobalakrishnan.bk2@gmail.com-ffffff?style=social&logo=Gmail&logoColor=red" height="25" /></a>
   </picture>
   <picture width="50">
-    <img src="https://img.shields.io/badge/-+91 99420 42096-ffffff?style=social&logo=WhatsApp&logoColor=success" height="25" /></a>
+    <a href="https://wa.link/3u1pwj"><img src="https://img.shields.io/badge/-+91 99420 42096-ffffff?style=social&logo=WhatsApp&logoColor=success" height="25" /></a>
   </picture>
   <picture width="50">
     <a href="https://linkedin.com/in/boobalakrishnanm"><img src="https://img.shields.io/badge/-Boobala Krishnan M-ffffff?style=flat&logo=Linkedin&logoColor=blue" alt="boobalakrishnanm" height="25" /></a>
